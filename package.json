@@ -6,7 +6,7 @@
     "xmpp"
   ],
   "author": {
-    "name": "Jared Hanosn",
+    "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
@@ -17,12 +17,7 @@
   "bugs": {
     "url": "http://github.com/bixbyjs/bixby-junction/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "main": "./lib",
   "dependencies": {
   },
